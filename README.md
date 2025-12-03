@@ -1,2 +1,2 @@
 # Data-Mining-Klasifikasi
-Astalavista
+Projek Akhir Data Mining Dengan kategori Course Klasifikasi.
